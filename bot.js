@@ -18,7 +18,7 @@ client.on('ready', () => {
     console.log(`✨ Channels: Limtit`);
     console.log('----------------');
     console.log(`Logged in as `);
-    client.user.setGame(`⠀⠀⠀⠀⠀⠀SPT Server System Bot.   `, "http://twitch.tv/Streammingg")
+    client.user.setGame(`⠀⠀⠀⠀⠀⠀SPT Server Brodcast Bot.   `, "http://twitch.tv/Streammingg")
     client.user.setStatus("dnd")
 });
 
