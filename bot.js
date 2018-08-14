@@ -24,7 +24,7 @@ client.on('ready', () => {
 
 
   client.on('message' , function (message){
-      var token = 'NDc3NjUyMTE3ODcyNzA1NTM2.DlO4Mw.5hFye9Sfm3L-7PBYZ-N84n8CgWY'; // التوكن هنا بس
+      var token = 'NDc3MzAzNzAyOTkxMTQyOTEy.DlO4Mw.bNZOLYhOE8DbAD5YUTI8RauKH7Y'; // التوكن هنا بس
       if(message.content === 'res') {
 if(message.author.id !== '355101114024329227') return message.reply('**الامر خاص بـ صاحب البوت وشكرا**');
           client.destroy();
